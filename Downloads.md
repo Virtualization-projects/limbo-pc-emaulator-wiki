@@ -96,5 +96,17 @@ Limbo SPARC Emulator
 [limbo-android-sparc-X86.4.0.0.apk](https://drive.google.com/uc?export=download&id=1XrmbGmk3kExbM5MAZQ1T8XRM56KZmWKR)  
   
 Limbo PPC Emulator  
-[limbo-android-ppc-X86.4.0.0.apk](https://drive.google.com/uc?export=download&id=1FcaB45nlKxIBxrNCaQ3AwbRVrhoUu4ld)  
+[limbo-android-ppc-X86.4.0.0.apk](https://drive.google.com/uc?export=download&id=1FcaB45nlKxIBxrNCaQ3AwbRVrhoUu4ld)
+  
+  
+
+***
+
+## Tools
+The following android apps are recommended:
+[Juice SSH](https://play.google.com/store/apps/details?id=com.sonelli.juicessh) To connect to your vm with forward port
+[Hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard) Fully qwerty keyboard
+[Turbo Download Manager](https://play.google.com/store/apps/details?id=com.okythoos.android.tdmpro) Download fast large ISOs and virtual hard disks.  
+  
+  
   

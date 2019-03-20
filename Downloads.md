@@ -1,4 +1,4 @@
-Current Release: 4.0.0  
+# Current Release: 4.0.0  
 Source Code  
 Source Code can be found here: https://github.com/limboemu/limbo  
   
@@ -66,6 +66,7 @@ Make sure you read the quickstart guide before you do anything else: [here](http
 ## Downloads  
 ﻿Download Limbo 4.0.0 for **ARM devices** (most phones and tablets)  
   ​
+  
 Limbo ARM Emulator  
 [limbo-android-arm-ARM.4.0.0.apk](https://drive.google.com/uc?export=download&id=1XID78k8hxEQzJqoT5LmMflm6-RDXJoR7)
   
@@ -80,9 +81,8 @@ Limbo x86 PC Emulator
   
 ***
 
-Download Limbo 4.0.0 for 
+Download Limbo 4.0.0 for **Intel CPU devices** (Zenfone 2, Yoga Tablet 2)  
   
-**Intel CPU devices** (Zenfone 2, Yoga Tablet 2)  
   
 Limbo x86 PC Emulator  
 [limbo-android-x86-X86.4.0.0.apk](https://drive.google.com/uc?export=download&id=1WxCrFCdF7i2eRbsZUYp8Qi0oIBP5Qaa6)  

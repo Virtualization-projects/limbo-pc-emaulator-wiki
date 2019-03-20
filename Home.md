@@ -1,6 +1,6 @@
 ### **Welcome to the Limbo PC Emulator wiki!**    
 
-Limbo Emulator is a port of QEMU (Quick Emulator) and dependent libraries for Android Devices.  
+Limbo Emulator is a port of [QEMU](https://www.qemu.org/) (Quick Emulator) and dependent libraries for Android Devices.  
   
 Limbo Emulator can currently emulate lightweight Operating Systems for Intel based x86 PC like DSL Linux, Debian, Freedos and Others.  
 
@@ -59,7 +59,6 @@ Release Notes:
 ***
 
 
-Download APK here  
-Screenshots: here  
-Instructions & OS Guides here  
-Other Compatible OSes: here  
+Download APK [here](https://github.com/limboemu/limbo/wiki/Downloads)    
+Instructions & OS Guides [here](https://github.com/limboemu/limbo/wiki/Guides)  
+  

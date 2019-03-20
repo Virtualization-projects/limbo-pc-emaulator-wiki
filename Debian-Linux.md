@@ -96,4 +96,4 @@ To uninstall a desktop manager:
 > apt-get remove gnome*
 ​  
 ## Preinstalled Hard Disk Images
-If you want to you can download a ready made hard disk image here (Choose Debian 3.1).
+If you want to you can download a ready made hard disk image [here](http://virtualboxes.org/images/debian/)(Choose Debian 3.1).

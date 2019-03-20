@@ -42,10 +42,10 @@ Pauses when in the background
   
 The following architecture machines are supported:  
   
-**Intel x86 32 and 64 bit  **
+**Intel x86 32 and 64 bit**  
 This is the most common architecture that people use to get Linux and other operating systems.  
   
-**ARM 32 and 64bit  **
+**ARM 32 and 64bit**  
 You can run Linux operatings systems for ARM CPUs like Debian Linux for ARM for boards like Raspberry Pi.    
 ​
 Sparc  

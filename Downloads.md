@@ -46,6 +46,8 @@ Release Notes
 * Default build sdk version is now api 26, minimum api continues to be 21
   
   
+***
+
 Known Issues:  
 Mouse acceleration issues in QEMU VNC (see guide for disabling it)  
 Emulated audio is slow  

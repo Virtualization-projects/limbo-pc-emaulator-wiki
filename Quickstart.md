@@ -130,11 +130,12 @@ Sound Cards emulated:
 * es1370
 * ac97
   
-Note: Playing MP3 files and other encoders within the virtual machine might not run well at all. Playback of wav files have better performance. Other sounds by the Desktop OS you're running might considerably reduce the performance so it's best to disable this option.  
+**Note:**  
+Playing MP3 files and other encoders within the virtual machine might not run well at all. Playback of wav files have better performance. Other sounds by the Desktop OS you're running might considerably reduce the performance so it's best to disable this option.  
   
 ## VM State  
 You can save the Virtual Machine state to a file and resume later. This is a great feature so your virtual machine doesn't have to boot again from the start.  
   
-## Note:  
+**Note:**  
 Saving the VM state doesn't work with certain hard disk images or the "Shared Folder" option. The best choice is to use qcow2 images which are fully supported.  
   

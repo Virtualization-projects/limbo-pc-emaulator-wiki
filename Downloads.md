@@ -50,45 +50,49 @@ Known Issues:
 Mouse acceleration issues in QEMU VNC (see guide for disabling it)  
 Emulated audio is slow  
 
-Work in progress  
-N/A  
   
-  
-If you want to follow the guides and setup your OS images you should also install Qemu for Windows and Linux:  
+If you want to follow the guides and setup your OS images you should also install QEMU for Windows and Linux:  
   
 Qemu with GTK (GUI) for Windows Make sure you download a version with GTK if you want a GUI.  
 Qemu Manager (GUI) for Windows  
   
 If you have Ubuntu or if you run a Debian based linux distro install from the command line with:   
-sudo apt-get install qemu  
+> sudo apt-get install qemu  
   
-Make sure you read the quickstart guide before you do anything else: here  
+Make sure you read the quickstart guide before you do anything else: [here](https://github.com/limboemu/limbo/wiki/Quickstart)  
   
-﻿Download Limbo 4.0.0 for ARM devices (most phones and tablets)  
+***
+
+## Downloads
+﻿Download Limbo 4.0.0 for **ARM devices** (most phones and tablets)  
   ​
 Limbo ARM Emulator
-limbo-android-arm-ARM.4.0.0.apk
+[limbo-android-arm-ARM.4.0.0.apk](https://drive.google.com/uc?export=download&id=1XID78k8hxEQzJqoT5LmMflm6-RDXJoR7)
   
 Limbo SPARC Emulator  
-limbo-android-sparc-ARM.4.0.0.apk  
+[limbo-android-sparc-ARM.4.0.0.apk](https://drive.google.com/uc?export=download&id=1uRj8_g5UJlKMHv2YM24Jo0Wb9UWyhKgv)  
   
 Limbo PPC Emulator  
-limbo-android-ppc-ARM.4.0.0.apk  
+[limbo-android-ppc-ARM.4.0.0.apk](https://drive.google.com/uc?export=download&id=1yHCOonMbvSIhYAMAaiE0KhHjpMdCJu8L)  
   
 Limbo x86 PC Emulator  
-limbo-android-x86-ARM.4.0.0.apk  
+[limbo-android-x86-ARM.4.0.0.apk](https://drive.google.com/uc?export=download&id=1mF1mZbuf1DHMmUoThFLHPEg8UEcPWeLW)  
   
-Download Limbo 4.0.0 for Intel CPU devices (Zenfone 2, Yoga Tablet 2)  
+***
+
+Download Limbo 4.0.0 for 
+  
+**Intel CPU devices** (Zenfone 2, Yoga Tablet 2)  
   
 Limbo x86 PC Emulator  
-limbo-android-x86-X86.4.0.0.apk  
+[limbo-android-x86-X86.4.0.0.apk](https://drive.google.com/uc?export=download&id=1WxCrFCdF7i2eRbsZUYp8Qi0oIBP5Qaa6)  
   
 Limbo ARM Emulator  
-limbo-android-arm-X86.4.0.0.apk  
+[limbo-android-arm-X86.4.0.0.apk](https://drive.google.com/uc?export=download&id=1xOWDfcDb7UniFhwoCgvnYT7Z0K02-5-n)  
   
 Limbo SPARC Emulator  
-limbo-android-sparc-X86.4.0.0.apk  
+[limbo-android-sparc-X86.4.0.0.apk](https://drive.google.com/uc?export=download&id=1XrmbGmk3kExbM5MAZQ1T8XRM56KZmWKR)  
   
 Limbo PPC Emulator  
-limbo-android-ppc-X86.4.0.0.apk  
+[limbo-android-ppc-X86.4.0.0.apk](https://drive.google.com/uc?export=download&id=1FcaB45nlKxIBxrNCaQ3AwbRVrhoUu4ld)  
   

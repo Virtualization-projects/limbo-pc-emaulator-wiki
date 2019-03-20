@@ -30,7 +30,7 @@ Desktop Manager:
 ​    #dillo /user/share/doc/dsl/getting_started.html &>/dev/null &  
     #torsmo 2>/dev/null &  
 ​  
-Instead of running from the live CD you can install dsl linux on a hard disk image. Installations steps on how to do a frugal install are here  
+Instead of running from the live CD you can install dsl linux on a hard disk image. Installations steps on how to do a frugal install are [here](http://damnsmalllinux.org/wiki/frugal_install.html)  
   
   
 ## Utilities

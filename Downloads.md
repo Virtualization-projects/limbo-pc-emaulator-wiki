@@ -41,7 +41,7 @@ Release Notes
 * Reduced message errors for QMP client
 * Early support for double tap/hold touchpad mode
 * Early support for x86 guest MTTCG (qemu 3.1.0)
-* New build environemnt read README.developers for changes to makefiles
+* New build environment read README.developers for changes to makefiles
 * Reduced JNI internal configuration files and makefiles
 * Default build sdk version is now api 26, minimum api continues to be 21
   
@@ -63,13 +63,13 @@ Make sure you read the quickstart guide before you do anything else: [here](http
   
 ***
 
-## Downloads
+## Downloads  
 ﻿Download Limbo 4.0.0 for **ARM devices** (most phones and tablets)  
   ​
-Limbo ARM Emulator
+Limbo ARM Emulator  
 [limbo-android-arm-ARM.4.0.0.apk](https://drive.google.com/uc?export=download&id=1XID78k8hxEQzJqoT5LmMflm6-RDXJoR7)
   
-Limbo SPARC Emulator  
+Limbo SPARC Emulator   
 [limbo-android-sparc-ARM.4.0.0.apk](https://drive.google.com/uc?export=download&id=1uRj8_g5UJlKMHv2YM24Jo0Wb9UWyhKgv)  
   
 Limbo PPC Emulator  

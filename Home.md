@@ -59,7 +59,7 @@ Release Notes:
 ***
 
 
-Download APK here
-Screenshots: here
-Instructions & OS Guides here
-Other Compatible OSes: here
+Download APK here  
+Screenshots: here  
+Instructions & OS Guides here  
+Other Compatible OSes: here  

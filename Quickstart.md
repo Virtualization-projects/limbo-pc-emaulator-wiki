@@ -21,7 +21,7 @@ Limbo provides following emulation Capabilities via its front end:
 * Network (functional under User mode, TAP not supported)  
   ​
   
-By now you should have installed Limbo if not click here to download and install.  
+By now you should have installed Limbo if not click [here](https://github.com/limboemu/limbo/wiki/Downloads) to download and install.  
   
 ## GUI (Graphical User Interface)  
 Limbo provides a VNC interface and a native SDL interface to render the graphics. The main differences between the two interfaces are outlined below.  

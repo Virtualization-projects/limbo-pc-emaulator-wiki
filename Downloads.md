@@ -1,49 +1,18 @@
-# Current Release: 4.0.0  
+# Current Release: 4.1.0  
 Source Code  
 Source Code can be found here: https://github.com/limboemu/limbo  
   
   
 Release Notes  
   
-* Enabled SDL scaling with linear algorithm
-* Fixed loading native libraries for 64 bit hosts
-* VNC and SDL 1-1 screen mode is now centered
-* Emulated SD Drive is now available only for ARM
-* Desktop Mode is now global setting
-* Fixed issue with VNC 24bit color on Samsung phones showing black screen
-* Standardized VNC port for better compatibility with external clients
-* Added Calibration Fix for VNC Mouse
-* Mouse, Keyboard, MTTCG, and KVM are now Machine option (not global)
-* New option Disable TSC for OSes that hang or kernel panic (set by default)
-* Some machine options have changed default values (ie network is disable by default)
-* New expand/collapse user interface for main screen.
-* Formatted display path for disk image files
-* Enabled fallback file manager for Android devices that don't support Android Storage Framework (no SD Card support)
-* Shared folder is now configurable (SD Card still not supported)
-* Added reconnect option for VNC
-* VNC client resize automatically when VM resolution changes
-* Added/Rearranged some additional CPU and Machine specs across emulators
-* Added internal log viewer
-* Fixed issue with virtual disk files containing percent symbol
-* QEMU monitor is now resized automatically
-* Fixed issue with crashing and/or corrupting vm states after pause is complete
-* Fixed emulated SD card for ARM emulator
-* Maximum number of virtual CPUs is now 8
-* Maximum machine RAM is now 2GB
-* Logging now starts capturing output early
-* Log File is now saved internally with "Copy To" option
-* Limbo generated files are now all saved under internal private storage,
-* Virtual disks images can still be loaded from external storage or SD Card
-* Added description for emulated mouse usb-tablet (this fixes VNC mouse issues)
-* Mouse usb-tablet is not supported by all Guest OSes
-* Added icons for Legacy file manager
-* Added icons for Drives dialog box
-* Reduced message errors for QMP client
-* Early support for double tap/hold touchpad mode
-* Early support for x86 guest MTTCG (qemu 3.1.0)
-* New build environment read README.developers for changes to makefiles
-* Reduced JNI internal configuration files and makefiles
-* Default build sdk version is now api 26, minimum api continues to be 21
+* Support for compiling with QEMU 4.0.0 see README.developers for instructions
+* VNC is now using a Unix domain socket for local connection
+* QMP is now using a Unix domain socket for local connection
+* Support for allowing QMP external connections
+* Updated download and guide links to github repo
+* Added software updates option in settings screen
+* Moved legacy file manager option to settings screen
+* SDL interface is now default
   
   
 ***
@@ -66,6 +35,40 @@ Make sure you read the quickstart guide before you do anything else: [here](http
 ***
 
 ## Downloads  
+﻿Download Limbo 4.1.0 for **ARM devices** (most phones and tablets)  
+  ​
+  
+Limbo ARM Emulator  
+[limbo-android-arm-ARM.4.1.0.apk](https://drive.google.com/uc?export=download&id=1xJjY38z7qDha8m0pjgYf-UKb9Wjd7Azx)
+
+Limbo SPARC Emulator   
+[limbo-android-sparc-ARM.4.1.0.apk](https://drive.google.com/uc?export=download&id=1QjnTtrRwAJreAnOlB8Bc-9xrF4k1KyF9)  
+
+Limbo PPC Emulator  
+[limbo-android-ppc-ARM.4.1.0.apk](https://drive.google.com/uc?export=download&id=13qoS7PTowiR5VLKnyEpUMjdzPON60xj1)  
+
+Limbo x86 PC Emulator  
+[limbo-android-x86-ARM.4.1.0.apk](https://drive.google.com/uc?export=download&id=1NImRzuSi5CWYNW5qijJj5YXph1BxKyP3)  
+
+***
+
+Download Limbo 4.1.0 for **Intel CPU devices** (Zenfone 2, Yoga Tablet 2)  
+  
+  
+Limbo x86 PC Emulator  
+[limbo-android-x86-X86.4.1.0.apk](https://drive.google.com/uc?export=download&id=11x3Vkl2EaSbk0QiQheP1jNHINgIlh5ld)  
+
+Limbo ARM Emulator  
+[limbo-android-arm-X86.4.1.0.apk](https://drive.google.com/uc?export=download&id=1ONJszj16lHZx29m3osR-tTIJtR3Cn7mx)  
+  
+Limbo SPARC Emulator  
+[limbo-android-sparc-X86.4.1.0.apk](https://drive.google.com/uc?export=download&id=1uqBmmnvN2be-O4_kTqiLHCsKMZntM6Dv)  
+  
+Limbo PPC Emulator  
+[limbo-android-ppc-X86.4.1.0.apk](https://drive.google.com/uc?export=download&id=1cqj9w_xQqIs44G_i9OHDR3fQzcbpOg8r)
+
+***
+
 ﻿Download Limbo 4.0.0 for **ARM devices** (most phones and tablets)  
   ​
   

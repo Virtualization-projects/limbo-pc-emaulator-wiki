@@ -15,4 +15,4 @@ Instructions & OS Guides [here](https://github.com/limboemu/limbo/wiki/Guides)
 
 
 Latest Release
-Limbo PC Emulator ver 4.0.0
+Limbo PC Emulator ver 4.1.0

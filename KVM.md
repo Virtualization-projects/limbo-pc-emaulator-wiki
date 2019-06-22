@@ -3,7 +3,7 @@ This is a guide for making Limbo running guest OSes in nearly native speed lever
 
 # Step 1
 ## x86 KVM Android kernel
-Limbo fully supports KVM for Android-x86 OS. Android-x86 project is a port of Android for x86 devices like PCs and Laptops. ISOs and other downloads can be found in https://osdn.net/projects/android-x86/releases/65697
+Limbo fully supports KVM for Android-x86 OS. Android-x86 project is a port of Android for x86 devices like PCs and Laptops. ISOs and other downloads can be found in https://osdn.net/projects/android-x86/releases/65697.
 Android-x86 version 5.1 already contains support for KVM so you can download the ISO, burn it in a CD, and use it to boot your PC computer. If you don't want to install it in your hard disk you can instead run the live CD option selecting it  from the menu. You can now move to step 2.
 
 ## ARM Android kernel
@@ -17,7 +17,7 @@ If newer NDK versions error during compilation make sure you are using the corre
 Go to Samsung Open Source center: http://opensource.samsung.com/
 and search for:
 s8 or g950F
-There might be multiple archives, make sure you download the correct one for your device
+There might be multiple archives, make sure you download the correct one for your device.
 Download the zip file and extract it somewhere in your home directory.
 
 Open the defconfig file exynos8895-dreamlte_defconfig and add these options with a text editor:
@@ -32,7 +32,7 @@ CONFIG_KVM_MMIO=y
 CONFIG_KVM_ARM_HOST=y 
 ```
 
-Now you can start building the kernel from the command line
+Now you can start building the kernel from the command line.
 Make sure you're under the top level folder and type these commands:
 ```
 export ARCH=arm64 
@@ -45,7 +45,7 @@ make
 ```
 
 # Step 2
-Once Android boots up open the android emulator and make sure you have the device file /dev/kvm exists and has appropriate file permissions:
+Once Android boots up open the android terminal and make sure you have the device file /dev/kvm exists and has appropriate file permissions:
 ```
 ls /dev/kvm
 chmod 666 /dev/kvm

@@ -1,4 +1,5 @@
-DSL (Damn Small Linux) is a lightweight Operating system compatible with Limbo PC Emulator. Below are the steps to set up a hard disk image for use with Limbo and install DSL linux.  
+DSL (Damn Small Linux) is a lightweight Operating system compatible with Limbo PC Emulator. Below are the steps to set up a hard disk image for use with Limbo and install DSL linux. You can download the DSL Linux ISO from:
+http://www.damnsmalllinux.org/download.html
   
 ## Considerations  
 **Performance:**  

@@ -35,6 +35,8 @@ Make sure you read the quickstart guide before you do anything else: [here](http
 ***
 
 ## Downloads  
+** If you're upgrading to version 4 from version 2 or 3 you have to **uninstall** and do a **fresh install**. Make sure you **export** your virtual machines before you uninstall and then **re-import** them.
+
 ﻿Download Limbo 4.1.0 for **ARM devices** (most phones and tablets)  
   ​
   

@@ -1,5 +1,3 @@
-
-## Tools
 The following android apps are recommended:  
  
 [Hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard)

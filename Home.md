@@ -9,7 +9,7 @@ Limbo Emulator is Open Source Software, you can find a copy of our source code i
   
 Download APK [here](https://github.com/limboemu/limbo/wiki/Downloads)    
 Instructions & OS Guides [here](https://github.com/limboemu/limbo/wiki/Guides)  
-  
+Required Tools [here](https://github.com/limboemu/limbo/wiki/Tools)    
   
 ***
 
